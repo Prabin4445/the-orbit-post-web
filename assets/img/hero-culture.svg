@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Culture news artwork">
+  <defs>
+    <radialGradient id="cv" cx="50%" cy="38%" r="72%">
+      <stop offset="0%" stop-color="#242B17"/><stop offset="100%" stop-color="#0D100A"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#cv)"/>
+  <g opacity="0.9">
+    <path d="M600 120 L700 315 L600 510 L500 315 Z" fill="none" stroke="#D6FF2E" stroke-width="10" stroke-linejoin="round"/>
+    <path d="M600 170 L668 315 L600 460 L532 315 Z" fill="#1E2416" stroke="#D6FF2E" stroke-width="4" stroke-linejoin="round"/>
+  </g>
+  <g stroke="#D6FF2E" stroke-width="7" stroke-linecap="round" opacity="0.75">
+    <line x1="330" y1="150" x2="470" y2="240"/><line x1="870" y1="150" x2="730" y2="240"/>
+    <line x1="260" y1="330" x2="420" y2="330"/><line x1="940" y1="330" x2="780" y2="330"/>
+    <line x1="330" y1="510" x2="470" y2="420"/><line x1="870" y1="510" x2="730" y2="420"/>
+  </g>
+  <g fill="#D6FF2E">
+    <circle cx="315" cy="140" r="13"/><circle cx="885" cy="140" r="13"/>
+    <circle cx="245" cy="330" r="13"/><circle cx="955" cy="330" r="13"/>
+    <circle cx="315" cy="520" r="13"/><circle cx="885" cy="520" r="13"/>
+  </g>
+  <ellipse cx="600" cy="560" rx="180" ry="14" fill="#D6FF2E" opacity="0.18"/>
+  <g fill="#E8EAD9" opacity="0.4">
+    <circle cx="140" cy="220" r="2.4"/><circle cx="1050" cy="240" r="2.6"/><circle cx="700" cy="90" r="2"/>
+  </g>
+  <rect x="60" y="560" width="150" height="8" rx="4" fill="#D6FF2E" opacity="0.55"/>
+  <rect x="990" y="560" width="150" height="8" rx="4" fill="#D6FF2E" opacity="0.3"/>
+</svg>

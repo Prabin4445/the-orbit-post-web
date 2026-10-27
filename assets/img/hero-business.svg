@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Business news artwork">
+  <defs>
+    <linearGradient id="bv" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#1A2013"/><stop offset="100%" stop-color="#0D100A"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bv)"/>
+  <circle cx="930" cy="170" r="120" fill="#1E2416"/>
+  <ellipse cx="930" cy="170" rx="230" ry="52" fill="none" stroke="#D6FF2E" stroke-width="8" transform="rotate(-12 930 170)" opacity="0.9"/>
+  <g>
+    <rect x="150" y="380" width="90" height="150" rx="6" fill="#2C3319"/>
+    <rect x="270" y="330" width="90" height="200" rx="6" fill="#39411F"/>
+    <rect x="390" y="360" width="90" height="170" rx="6" fill="#2C3319"/>
+    <rect x="510" y="270" width="90" height="260" rx="6" fill="#46521F"/>
+    <rect x="630" y="200" width="90" height="330" rx="6" fill="#D6FF2E"/>
+    <rect x="150" y="552" width="660" height="10" rx="5" fill="#E8EAD9" opacity="0.25"/>
+  </g>
+  <path d="M150 420 L315 340 L435 370 L555 260 L675 190" fill="none" stroke="#D6FF2E" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M640 190 h35 v35" fill="none" stroke="#D6FF2E" stroke-width="10" stroke-linecap="round"/>
+  <g fill="#E8EAD9" opacity="0.45">
+    <circle cx="110" cy="120" r="2.6"/><circle cx="260" cy="90" r="2"/><circle cx="480" cy="130" r="2.4"/>
+    <circle cx="760" cy="420" r="2"/><circle cx="1080" cy="480" r="2.6"/><circle cx="180" cy="560" r="2"/>
+  </g>
+  <rect x="60" y="560" width="150" height="8" rx="4" fill="#D6FF2E" opacity="0.55"/>
+  <rect x="990" y="560" width="150" height="8" rx="4" fill="#D6FF2E" opacity="0.3"/>
+</svg>

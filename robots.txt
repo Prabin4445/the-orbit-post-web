@@ -1,0 +1,6 @@
+# The Orbit Post robots.txt
+User-agent: *
+Allow: /
+Disallow: /newsroom/
+
+Sitemap: https://theorbitpostnews.us/sitemap.xml

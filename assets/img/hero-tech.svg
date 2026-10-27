@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Tech news artwork">
+  <defs>
+    <radialGradient id="tv" cx="50%" cy="45%" r="70%">
+      <stop offset="0%" stop-color="#202715"/><stop offset="100%" stop-color="#0D100A"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#tv)"/>
+  <circle cx="600" cy="315" r="150" fill="#161B0F"/>
+  <ellipse cx="600" cy="315" rx="290" ry="70" fill="none" stroke="#D6FF2E" stroke-width="7" transform="rotate(-16 600 315)" opacity="0.95"/>
+  <ellipse cx="600" cy="315" rx="210" ry="210" fill="none" stroke="#D6FF2E" stroke-width="3" opacity="0.35"/>
+  <rect x="540" y="255" width="120" height="120" rx="14" fill="#0D100A" stroke="#D6FF2E" stroke-width="8"/>
+  <rect x="566" y="281" width="68" height="68" rx="8" fill="#D6FF2E"/>
+  <rect x="600" y="255" width="10" height="120" fill="#0D100A"/>
+  <rect x="540" y="309" width="120" height="10" fill="#0D100A"/>
+  <g stroke="#D6FF2E" stroke-width="6" stroke-linecap="round" opacity="0.9">
+    <line x1="600" y1="255" x2="600" y2="170"/><line x1="600" y1="375" x2="600" y2="460"/>
+    <line x1="540" y1="315" x2="455" y2="315"/><line x1="660" y1="315" x2="745" y2="315"/>
+  </g>
+  <g fill="#D6FF2E">
+    <circle cx="600" cy="160" r="12"/><circle cx="600" cy="470" r="12"/>
+    <circle cx="445" cy="315" r="12"/><circle cx="755" cy="315" r="12"/>
+  </g>
+  <g fill="#E8EAD9" opacity="0.4">
+    <circle cx="150" cy="140" r="2.4"/><circle cx="330" cy="90" r="2"/><circle cx="900" cy="120" r="2.6"/>
+    <circle cx="1060" cy="260" r="2"/><circle cx="220" cy="520" r="2.4"/><circle cx="980" cy="540" r="2"/>
+  </g>
+  <rect x="60" y="560" width="150" height="8" rx="4" fill="#D6FF2E" opacity="0.55"/>
+  <rect x="990" y="560" width="150" height="8" rx="4" fill="#D6FF2E" opacity="0.3"/>
+</svg>

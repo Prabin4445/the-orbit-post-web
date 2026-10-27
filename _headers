@@ -1,0 +1,6 @@
+/*
+  X-Frame-Options: DENY
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: strict-origin-when-cross-origin
+  Permissions-Policy: camera=(), microphone=(), geolocation=(), payment=(), usb=(), magnetometer=(), gyroscope=(), accelerometer=()
+  Content-Security-Policy: default-src 'self'; script-src 'self' 'sha256-L9NtTqBLxf1z3sIza7z/JTtm01m91a8xVl07p4WTMYw=' 'sha256-lUdWen1nojgp8FrQgrHY1Q6oio4XUI8vLoa5sWvxtgQ=' 'sha256-tnNDpAzByH+6cWDGCKm+8tfc0vpaJbP/tkthSCS/9HU=' https://pagead2.googlesyndication.com https://*.googlesyndication.com https://googleads.g.doubleclick.net https://*.doubleclick.net https://*.gstatic.com https://*.google.com https://www.googletagmanager.com; style-src 'self' 'unsafe-inline' https://*.gstatic.com; img-src 'self' data: https:; frame-src https://*.googlesyndication.com https://*.doubleclick.net https://*.google.com https://www.youtube-nocookie.com; font-src 'self' data:; connect-src 'self' https://*.google.com https://*.googlesyndication.com https://*.gstatic.com https://*.doubleclick.net https://*.google-analytics.com; object-src 'none'; base-uri 'self'; frame-ancestors 'none'; form-action 'self'; upgrade-insecure-requests

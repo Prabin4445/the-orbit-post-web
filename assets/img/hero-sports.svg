@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Sports news artwork">
+  <defs>
+    <linearGradient id="sv" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1C2214"/><stop offset="100%" stop-color="#0D100A"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#sv)"/>
+  <circle cx="600" cy="315" r="130" fill="#E8EAD9"/>
+  <path d="M520 215c40 30 40 170 0 200M680 215c-40 30-40 170 0 200" fill="none" stroke="#0D100A" stroke-width="12"/>
+  <path d="M470 260 A 200 200 0 0 1 730 260" fill="none" stroke="#D6FF2E" stroke-width="14" stroke-linecap="round"/>
+  <path d="M380 190 A 300 44 0 0 1 820 190" fill="none" stroke="#D6FF2E" stroke-width="6" opacity="0.5"/>
+  <path d="M340 150 A 360 60 0 0 1 860 150" fill="none" stroke="#D6FF2E" stroke-width="4" opacity="0.28"/>
+  <circle cx="180" cy="480" r="34" fill="none" stroke="#E8EAD9" stroke-width="10" opacity="0.7"/>
+  <circle cx="1020" cy="150" r="26" fill="none" stroke="#E8EAD9" stroke-width="8" opacity="0.5"/>
+  <g fill="#E8EAD9" opacity="0.4">
+    <circle cx="120" cy="120" r="2.6"/><circle cx="420" cy="100" r="2"/><circle cx="900" cy="470" r="2.4"/>
+    <circle cx="1080" cy="420" r="2"/><circle cx="300" cy="560" r="2.2"/>
+  </g>
+  <rect x="60" y="560" width="150" height="8" rx="4" fill="#D6FF2E" opacity="0.55"/>
+  <rect x="990" y="560" width="150" height="8" rx="4" fill="#D6FF2E" opacity="0.3"/>
+</svg>
